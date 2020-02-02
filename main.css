@@ -1,0 +1,61 @@
+.p1{
+	font-family: 'Pacifico', cursive;/*установка шрифта*/
+	font-size: 42px;/*размер шрифта*/
+	color: #747474;
+	background-color: #e4e4e4;
+	border: 10px solid #323232;/*граница*/
+	text-transform: capitalize;/*каждая первая буква заглавная*/
+}
+.p1:hover/*когда наводишь цвет меняется*/{
+	border-color: red;
+}
+.p2{
+	font-family: 'Marck Script', cursive;/*установка шрифта*/
+	margin: 100px 0;/*отступ с низу и с верху 100 пикселей а с право и лево 0 пикселей*/
+	color: blue;
+	font-size: 30px;
+	text-decoration: line-through; /*зачеркивание текста*/
+	text-transform: capitalize;/*каждая первая буква заглавная*/
+	
+}
+body{
+	background-color: #FFEB73;/*изменение цвета*/
+	width: 70%;
+	margin:auto;
+}
+.a1{
+	text-decoration:none;/*убирает подчеркивание ссылки*/ 
+	font-size: 24px;/*размер ссылки*/
+	color: red;/*цвет ссылки*/
+}
+.img1{
+	max-width: 100%;/*устанавливает максимальную ширину элемента*/
+height: auto;/*высота элемента*/
+display: block;/*свойтсво высоты элемента*/
+margin: ;/*внешний отступ*/
+padding: ;/*внутренний отступ*/
+box-sizing: ;/*модель отображения отступов*/
+}
+.img2{
+	max-width: 100%;/*устанавливает максимальную ширину элемента*/
+height: auto;/*высота элемента*/
+display: block;/*свойтсво высоты элемента*/
+margin: ;/*внешний отступ*/
+padding: ;/*внутренний отступ*/
+box-sizing: ;/*модель отображения отступов*/
+}
+.div1{
+	width: 60%;
+	margin: auto;
+	padding: 30px;
+}
+.div2{
+	width: 60%;
+	margin: auto;
+	padding: 30px;
+}
+.div3{
+	width: 60%;
+	margin: auto;
+	padding: 30px;
+}

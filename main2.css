@@ -1,0 +1,65 @@
+.p1  { 
+	font-family: 'Pacifico', cursive;
+    text-align: center;
+    font-size: 30px;
+}
+.p2{
+	font-size: 25px;
+	font-family: 'Marck Script', cursive;
+}
+.p3  { 
+	font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
+.p4  { 
+	font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
+.p5{
+
+}
+.img1{
+	max-width: 100%;
+	height: auto;
+	display: block;
+    
+}
+.img2{
+	max-width: 100%;
+	height: auto;
+	display: block;	
+}
+.div1{
+	width: 100%;
+	margin: auto;
+	padding: 30px;
+}
+body{
+	background-color: #FFEB73;
+	width: 70%;
+	margin:auto;
+}
+.div2{
+	width: 60%;
+	margin: auto;
+	padding: 30px;    
+}
+.div3{
+	width: 60%;
+	margin: auto;
+	padding: 30px;
+}
+.a1{
+	text-decoration:none;
+	font-size: 24px;
+	color: blue;
+}
+.a2{
+    text-decoration:none;
+    font-size: 24px;
+    color: blue;  
+}
+.a3{
+    text-decoration:none;
+    font-size: 24px;
+    color: blue;
